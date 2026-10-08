@@ -4,4 +4,4 @@ Research Associate at the University of Bath ([EMBA Lab](https://emba-lab.github
 
 **[epi-brain-dashboard](https://github.com/VilteBaltra/epi-brain-dashboard)** — interactive dashboard for epigenetic & brain age model performance · [live app ↗](https://epi-brain-age-dashboard.streamlit.app/)
 
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=green)](https://scholar.google.com/citations?user=I0dZ9fwAAAAJ&hl=en)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-2E7D32?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=I0dZ9fwAAAAJ&hl=en)
